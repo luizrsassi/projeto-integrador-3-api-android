@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gerenciador de Amostras</string>
+    <string name="gerenciador_de_amostras">Acessar sistema</string>
+    <string name="nome_login">nome</string>
+    <string name="password_login">password</string>
+    <string name="rotulo_botao">Já possui uma conta?\nAperte o botão</string>
+    <string name="botao_login">Entrar</string>
+    <string name="n_contrato">Contrato</string>
+    <string name="observa_o">Observação</string>
+    <string name="text_register">Clique para registrar</string>
+    <string name="login_btn">Login</string>
+</resources>
